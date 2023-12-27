@@ -1,0 +1,33 @@
+4)
+	ls -l
+
+total 24
+drwxr-xr-x 4 root root 4096 Nov 14 09:42 cat1
+-rw-r--r-- 1 root root   29 Nov 16 08:54 current_date
+drwxr-xr-x 2 root root 4096 Nov 16 08:51 dir
+drwxr-xr-x 3 root root 4096 Nov  1 07:59 gitr
+-rw-r--r-- 1 root root   10 Nov 16 09:06 lab1
+-rw-r--r-- 2 root root   29 Nov 14 09:46 link1
+
+	ls -a
+
+
+.
+..
+.bash_history
+.gitconfig
+.gnupg
+.lesshst
+.ssh
+cat1
+current_date
+dir
+gitr
+lab1
+link1
+
+6)
+	touch users
+
+7)
+	who >> users
